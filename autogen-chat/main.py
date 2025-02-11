@@ -55,7 +55,7 @@ class ProjectTeam:
     def __init__(self, model="llama3.2", api_type="ollama", stream=False):
         self.config_list = [{
                     "model": "gpt-4o",
-                    "api_key": "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"
+                    "api_key": ""
                 }]
         self.agents = {}
         self.groupchat = None
