@@ -11,3 +11,6 @@ Then open the db and run the rest of the commands.
 
 To run main application 
 go run . 
+
+
+#python backend code
